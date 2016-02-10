@@ -9,9 +9,6 @@ import javax.swing.border.LineBorder;
 
 public class TextAreaPanel extends JPanel {
 
-	/**
-	 * 
-	 */
 	private static final long serialVersionUID = 1L;
 
 	public JTextArea textArea = new JTextArea();
